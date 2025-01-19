@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mouvement1854": {
+      "hosting": {
+        "mouvement1854": [
+          "mouvement1854"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mouvement1854"
+  }
+}

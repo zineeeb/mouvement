@@ -1,0 +1,9 @@
+{
+    "hosting": [
+    {
+    "target": "mouvement1854",
+    "source": ".",
+    "frameworksBackend": {}
+    }
+    ]
+    }
